@@ -7,4 +7,5 @@
     <color name="greenbuttonPressed">#38ed42</color>
     <color name="hoverRed">#ef5350</color>
     <color name="hoverGreen">#4db6ac</color>
+    <color name="rl1bg">#e0f7fa</color>
 </resources>
